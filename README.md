@@ -16,6 +16,6 @@
 
 `PRAGMA table_info('table_name');`
 
-'update vkmodule_userprofile set is_superuser=1 where username="admin";'
+`update vkmodule_userprofile set is_superuser=1 where username="admin";`
 
 
